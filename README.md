@@ -40,6 +40,7 @@ function DoSomeThing(){
     # curl ....
     # ...
     return 0
+    #return customized_number
 }
 ```
 ## Any output?
