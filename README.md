@@ -70,7 +70,9 @@ function DoSomeThing(){
 ## How to download
 
 ```bash
-wget https://raw.githubusercontent.com/uf1y/do-something-when-your-internet-ip-changed/main/ipwatch.sh
+wget https://raw.githubusercontent.com/uf1y/\
+do-something-when-your-internet-ip-changed/main/ipwatch.sh
 
-curl -o ipwatch.sh https://raw.githubusercontent.com/uf1y/do-something-when-your-internet-ip-changed/main/ipwatch.sh
+curl -o ipwatch.sh https://raw.githubusercontent.com/uf1y/\
+do-something-when-your-internet-ip-changed/main/ipwatch.sh
 ```
